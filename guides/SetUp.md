@@ -11,7 +11,7 @@ Those are the necessary steps to be ready to receive Laurels (The Laurel Project
 
 ## Prepare your Wallet
 
-1. Create an Etherium Wallet (if you already has one, you can skip this step)
+1. Create an Ethereum Wallet (if you already has one, you can skip this step)
    - Install the google chrome extension [metamask](https://metamask.io/download.html) and create an account there.
    - At the end, you will have your key number (looks like 0x90F79bf6EB2c4f870365E785982E1f101E93b906), you can access your number by clicking on the MetaMask extension, like this image below:
      :::center
@@ -19,9 +19,9 @@ Those are the necessary steps to be ready to receive Laurels (The Laurel Project
      :::
 
 - To now on, let's refer to this number as **laurel-key**
-- **Note**: The Laurel cryptocurrency uses the same technology as Etherium, but does not have a monetary value. The only way of trade this coin is earning it doing volunteer work (and if it has monetary value, the work will be paid, and Laurel will become just another cryptocurrency)
+- **Note**: The Laurel cryptocurrency uses the same technology as Ethereum, but does not have a monetary value. The only way of trade this coin is earning it doing volunteer work (the value of one Laurel is one minute of your service doing good to others/ the world)
 
-2. Connect the Etherium Wallet with our test network named **The Laurel: Rinkeby** - In the Metamask extension, change the network, as the image below:
+2. Connect the Ethereum Wallet with our test network named **The Laurel: Rinkeby** - In the Metamask extension, change the network, as the image below:
    :::center
    :Image[]{src="https://github.com/the-laurel/marks/blob/main/assets/change-network.PNG?raw=true"}
    :::
@@ -42,13 +42,16 @@ Those are the necessary steps to be ready to receive Laurels (The Laurel Project
 
 ## Make your first contribution
 
-- Ask another volunteer to be your ancestor in the system and register you (provide your **laurel-key**), and choose one of the above to do. **HERE I SUGGEST I WAY TO FIND THE VOLUNTEERS**
+- Ask another volunteer to be your ancestor in the system and register you (provide your **laurel-key**), and choose one of the above to do.
   - Retweet 5 tweets from @provable_laurel or another volunteer's tweets that are related to The Laurel and the technical projects developed under The Laurel (e.g. @lorecirstea)
   - Write a social media post (Twitter, Facebook, Reddit, Linkedin) saying what inspired you to join The Laurel and what your expectations/hopes are. We expect it to be honest and factually correct
   - Ask 5 questions about The Laurel Project and/or protocol, as comment [here](https://www.reddit.com/r/provable_laurel/comments/pt3opa/the_laurel_project_and_protocol_qa/) or other posts
   - Post a detailed first sight feedback [here](https://www.reddit.com/r/provable_laurel/comments/pt3vus/at_first_sight_no1/)
 - After done, let him/her know. Then wait for your ancestor to generate the validate link and click it
-- The page will looks like as the page above, in this link you should put the actual proof of you did (in this case the link of the post, but in the future can be any other proof) and then click in **submit** **THIS PRINT NEED A NOT VALIDATE REQUEST OF LAURELS**
+  :::center
+  :Image[]{src="https://github.com/the-laurel/marks/blob/main/assets/claim.PNG?raw=true"}
+  :::
+- The page will looks like as the page above, in this link you should put the actual proof of you did (in this case the link of the post, but in the future can be any other proof) and then click in **create proof url**
   :::center
   :Image[]{src="https://github.com/the-laurel/marks/blob/main/assets/validation.PNG?raw=true"}
   :::
@@ -60,4 +63,4 @@ Those are the necessary steps to be ready to receive Laurels (The Laurel Project
 :::center
 :Image[]{src="https://github.com/the-laurel/marks/blob/main/assets/medal.PNG?raw=true"}
 :::
-Note: That is my medal to write this tutorial for you 😎 **Change in the future for the actual medal**
+Note: That is my medal to write this tutorial for you 😎
